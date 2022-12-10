@@ -15,8 +15,8 @@ Users should be able to:
 
 ## 📸 Screenshot
  
- Desktop version
+ - Desktop version
 ![](./images/screenshot-desktop.png)
 
-Mobile version
+- Mobile version
 ![](./images/screenshot-mobile.png)
